@@ -1,0 +1,7 @@
+/home/khan/projects/guessnumber/build/CMakeFiles/install/strip.dir
+/home/khan/projects/guessnumber/build/CMakeFiles/edit_cache.dir
+/home/khan/projects/guessnumber/build/CMakeFiles/guessnumber.dir
+/home/khan/projects/guessnumber/build/CMakeFiles/install.dir
+/home/khan/projects/guessnumber/build/CMakeFiles/rebuild_cache.dir
+/home/khan/projects/guessnumber/build/CMakeFiles/list_install_components.dir
+/home/khan/projects/guessnumber/build/CMakeFiles/install/local.dir
